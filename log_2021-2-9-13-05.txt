@@ -1,0 +1,2 @@
+Resultado: OK:  Detalle: Iniciando procesos Tue Feb 09 13:05:51 PYST 2021
+Resultado: ** Detalle: *********************

@@ -1,1 +1,0 @@
-Resultado: Error Detalle: Exception: java.lang.NullPointerException

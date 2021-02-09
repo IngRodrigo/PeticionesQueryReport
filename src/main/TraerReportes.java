@@ -16,12 +16,14 @@ public class TraerReportes {
         Reportes reporte;
         try {
             reportes = conexion.listarRegistros();
+            
             while (reportes.next()) {
                 reporte = new Reportes();
                 reporte.setId(reportes.getString("id_reporte"));
                 reporte.setFechas(reportes.getString("fechas"));
                 reporte.setDias(reportes.getString("dias"));
                 reporte.setHoras(reportes.getString("horas"));
+                EscribirLog.ejecutarLog("Respuesta BD: ", reporte.toString());
                 respuesta.add(reporte);
             }
         } catch (Exception e) {

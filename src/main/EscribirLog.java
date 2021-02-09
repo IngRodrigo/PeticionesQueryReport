@@ -27,6 +27,11 @@ public class EscribirLog {
         try {
             String data = "Resultado: " + tipo + " Detalle: " + mensaje + "\n";
             File file = new File("log_" + EscribirLog.fechaActual() + ".txt");
+
+            if (!file.exists()) {
+                file.createNewFile();
+            }
+
             // flag true, indica adjuntar información al archivo.
             fw = new FileWriter(file.getAbsoluteFile(), true);
             bw = new BufferedWriter(fw);
@@ -49,7 +54,7 @@ public class EscribirLog {
             }
         }
     }
-    
+
     public static String fechaActual() {
         String fecha = "";
         Calendar calendario = Calendar.getInstance();
@@ -62,7 +67,7 @@ public class EscribirLog {
         String minuto = String.format("%02d", calendario.get(Calendar.MINUTE));
         String segundo = String.format("%02d", calendario.get(Calendar.SECOND));
 
-        fecha = anio + "-" + mes + "-" + dia + "-" + hora + "-" + minuto + "-" + segundo;
+        fecha = anio + "-" + mes + "-" + dia + "-" + hora + "-" + minuto;
 
         return fecha;
     }

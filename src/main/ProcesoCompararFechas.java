@@ -46,6 +46,7 @@ public class ProcesoCompararFechas {
                         System.out.println("horaIndividual: " + horaIndividual);
                         if (hora_actual.equals(horaIndividual)) {
                             Peticiones.ejecutarPeticionPostCreateRegistro(respuesta.get(i).getId());
+                            EscribirLog.ejecutarLog("OK: ", "Se envio el correo al id del reporte: "+respuesta.get(i).getId());
                         }
                     }
                 } else {

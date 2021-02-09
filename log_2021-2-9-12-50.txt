@@ -1,0 +1,725 @@
+Resultado: OK:  Detalle: Iniciando procesos Tue Feb 09 12:50:08 PYST 2021
+Resultado: ** Detalle: *********************
+Resultado: OK:  Detalle: Reporte con el id: 1
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 01
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 02
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 03
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 04
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 05
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 06
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 07
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 08
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 09
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 10
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 11
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 12
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 13
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 14
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 15
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 16
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 17
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 18
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 19
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 20
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 21
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 22
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 23
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 24
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 25
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 26
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 27
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 28
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 29
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 30
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 31
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Reporte con el id: 10
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 01
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 02
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 03
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 04
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 05
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 06
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 07
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 08
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 09
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 10
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 11
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 12
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 13
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 14
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 15
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 16
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 17
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 18
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 19
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 20
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 21
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 22
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 23
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 24
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 25
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 26
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 27
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 28
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 29
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 30
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 31
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Reporte con el id: 11
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 12
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 01
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 02
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 03
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 04
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 05
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 06
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 07
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 08
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 09
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 10
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 11
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 12
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 13
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 14
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 15
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 16
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 17
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 18
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 19
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 20
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 21
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 22
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 23
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 24
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 25
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 26
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 27
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 28
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 29
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 30
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 31
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Reporte con el id: 13
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 14
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 16
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 17
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 22
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 23
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 24
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 44
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 01
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Reporte con el id: 27
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 49
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 29
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 30
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 40
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 18
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Reporte con el id: 31
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 32
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 34
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 35
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 01
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 02
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 03
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 04
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 05
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 06
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 07
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 08
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 09
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 10
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 11
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 12
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 13
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 14
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 15
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 16
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 17
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 18
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 19
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 20
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 21
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 22
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 23
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 24
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 25
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 26
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 27
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 28
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 29
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 30
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 31
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Reporte con el id: 38
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 01
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 02
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 03
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 04
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 05
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 06
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 07
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 08
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 09
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 10
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 11
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 12
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 13
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 14
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 15
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 16
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 17
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 18
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 19
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 20
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 21
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 22
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 23
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 24
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 25
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 26
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 27
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 28
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 29
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 30
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 31
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Reporte con el id: 39
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 01
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 02
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 03
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 04
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 05
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 06
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 07
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 08
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 09
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 10
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 11
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 12
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 13
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 14
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 15
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 16
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 17
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 18
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 19
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 20
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 21
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 22
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 23
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 24
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 25
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 26
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 27
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 28
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 29
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 30
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 31
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Reporte con el id: 41
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 42
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 43
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 45
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 01
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 02
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 03
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 04
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 05
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 06
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 07
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 08
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 09
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 10
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 11
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 12
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 13
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 14
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 15
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 16
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 17
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 18
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 19
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 20
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 21
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 22
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 23
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 24
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 25
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 26
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 27
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 28
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 29
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 30
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 31
+Resultado: OK:  Detalle: No se cumplen las condiciones para enviar correo
+Resultado: OK:  Detalle: Reporte con el id: 48
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 50
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Reporte con el id: 51
+Resultado: OK:  Detalle: Dia actual: 09
+Resultado: OK:  Detalle: Dia enistema: 0
+Resultado: OK:  Detalle: Procesos finalizados - Tue Feb 09 12:50:09 PYST 2021
