@@ -5,6 +5,7 @@
  */
 package main;
 
+import java.io.IOException;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
@@ -16,18 +17,17 @@ import okhttp3.Response;
  * @author rodrigo_dev
  */
 public class Peticiones {
-    public static void enviarCorreo(){
-        
+
+    public static void enviarCorreo() {
+
     }
-     public static void ejecutarPeticionPostCreateRegistro(String idReporte) {
-        //requestJson.setJob("Developer");
-        //requestJson.setName("Rodrigo Sanchez");
-        //  Gson g = new Gson();
-       // String json = g.toJson(requestJson);
+
+    public static boolean ejecutarPeticionPostCreateRegistro(String idReporte) {
+        boolean respuesta=false;
         OkHttpClient client = new OkHttpClient().newBuilder()
                 .build();
         MediaType mediaType = MediaType.parse("application/x-www-form-urlencoded");
-        RequestBody body = RequestBody.create(mediaType, "enviarCorreo="+idReporte);
+        RequestBody body = RequestBody.create(mediaType, "enviarCorreo=" + idReporte);
         Request request = new Request.Builder()
                 .url("http://webapp2/reportes/ws/queryreport.php")
                 .method("POST", body)
@@ -38,8 +38,14 @@ public class Peticiones {
             Response response = client.newCall(request).execute();
             System.out.println("response = " + response.body().string());
             System.out.println("response = " + response.code());
-        } catch (Exception e) {
+            EscribirLog.ejecutarLog("OK", "Codigo de respuesta: " + response.code());
+            EscribirLog.ejecutarLog("OK", "Response petición: " + response.body());
+            respuesta=true;
+        } catch (IOException e) {
             System.out.println("e = " + e);
+            EscribirLog.ejecutarLog("ERROR: ", "PROBLEMAS AL INTENTAR HACER LA PETICION DE ENVIO: " + e);
+            respuesta=false;
         }
+        return respuesta;
     }
 }

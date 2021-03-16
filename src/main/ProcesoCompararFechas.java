@@ -20,8 +20,13 @@ public class ProcesoCompararFechas {
         ArrayList<Reportes> respuesta = TraerReportes.idReportes();
         String[] fechasIndividual = null;
         String[] horasIndividual = null;
+        String[] diasIndividual=null;//por nombre Lunes, martes, miercoles, 
+        
         String dia_del_mes = String.format("%02d", calendario.get(Calendar.DAY_OF_MONTH));
-
+        
+        String dia_de_la_semana = EscribirLog.diaDeSemana(calendario.get(Calendar.DAY_OF_WEEK));
+        
+        
         String hora = String.format("%02d", calendario.get(Calendar.HOUR_OF_DAY));
         String minuto = String.format("%02d", calendario.get(Calendar.MINUTE));
         // System.out.println("hora = " + hora);
@@ -38,22 +43,26 @@ public class ProcesoCompararFechas {
                 System.out.println("dia_del_mes = " + dia_del_mes);
                 System.out.println("fecha = " + fecha);
                 EscribirLog.ejecutarLog("OK: ", "Dia actual: " + dia_del_mes);
-                EscribirLog.ejecutarLog("OK: ", "Dia enistema: " + fecha);
+                EscribirLog.ejecutarLog("OK: ", "Dia en BD: " + fecha);
                 if (String.valueOf(dia_del_mes).equals(fecha) || fecha.equals("0")) {
 
                     for (String horaIndividual : horasIndividual) {
-                        System.out.println("horaActual: " + hora_actual);
-                        System.out.println("horaIndividual: " + horaIndividual);
+                        System.out.println("Hora actual: " + hora_actual);
+                        System.out.println("Hora en BD: " + horaIndividual);
                         if (hora_actual.equals(horaIndividual)) {
-                            Peticiones.ejecutarPeticionPostCreateRegistro(respuesta.get(i).getId());
-                            EscribirLog.ejecutarLog("OK: ", "Se envio el correo al id del reporte: "+respuesta.get(i).getId());
+                            if(Peticiones.ejecutarPeticionPostCreateRegistro(respuesta.get(i).getId())){
+                            EscribirLog.ejecutarLog("OK: ", "Se envio el correo al id del reporte: "+respuesta.get(i).getId()); 
+                            }else{
+                                EscribirLog.ejecutarLog("ERROR: ", "NO SE PUDO ENVIAR CORREO REPORTE CON EL ID: "+respuesta.get(i).getId()); 
+                            }
                         }
                     }
                 } else {
-                    EscribirLog.ejecutarLog("OK: ", "No se cumplen las condiciones para enviar correo");
+                    EscribirLog.ejecutarLog("OK: ", "No se cumplen las condiciones para enviar el reporte con el id: "+respuesta.get(i).getId());
                 }
             }
             System.out.println("-----------------------------------------------");
+            EscribirLog.ejecutarLog("**", "************************************");
         }
     }
 }

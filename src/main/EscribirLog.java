@@ -25,8 +25,16 @@ public class EscribirLog {
         FileWriter fw = null;
 
         try {
+            File directorio = new File("Log");
+            if (!directorio.exists()) {
+                if (directorio.mkdirs()) {
+                    System.out.println("Directorio creado");
+                } else {
+                    System.out.println("Error al crear directorio");
+                }
+            }
             String data = "Resultado: " + tipo + " Detalle: " + mensaje + "\n";
-            File file = new File("log_" + EscribirLog.fechaActual() + ".txt");
+            File file = new File(directorio,"log_" + EscribirLog.fechaActual() + ".txt");
 
             if (!file.exists()) {
                 file.createNewFile();
@@ -70,5 +78,34 @@ public class EscribirLog {
         fecha = anio + "-" + mes + "-" + dia + "-" + hora + "-" + minuto;
 
         return fecha;
+    }
+
+    public static String diaDeSemana(int dia) {
+        String dia_de_la_semana = "";
+        switch (dia) {
+            case 1:
+                dia_de_la_semana = "Domingo";
+                break;
+            case 2:
+                dia_de_la_semana = "Lunes";
+                break;
+            case 3:
+                dia_de_la_semana = "Martes";
+                break;
+            case 4:
+                dia_de_la_semana = "Miercoles";
+                break;
+            case 5:
+                dia_de_la_semana = "Jueves";
+                break;
+            case 6:
+                dia_de_la_semana = "Viernes";
+                break;
+            case 7:
+                dia_de_la_semana = "Sabado";
+                break;
+        }
+
+        return dia_de_la_semana;
     }
 }
