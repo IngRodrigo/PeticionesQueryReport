@@ -2,6 +2,7 @@ package main;
 
 import java.io.IOException;
 import java.net.ServerSocket;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.Timer;
 import java.util.TimerTask;
@@ -29,7 +30,8 @@ public class Main {
                     try {
                         EscribirLog.ejecutarLog("OK: ", "Iniciando procesos " + new Date());
                         EscribirLog.ejecutarLog("**", "*********************");
-                        ProcesoCompararFechas.compararFechasParaEnviar();
+                        Calendar calendario = Calendar.getInstance();
+                        ProcesoCompararFechas.compararFechasParaEnviar(calendario);
                         EscribirLog.ejecutarLog("OK: ", "Procesos finalizados - " + new Date());
                     } catch (Exception e) {
                         EscribirLog.ejecutarLog("ERROR: ", "Excption: " + e);

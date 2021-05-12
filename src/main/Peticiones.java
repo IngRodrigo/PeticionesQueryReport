@@ -39,7 +39,7 @@ public class Peticiones {
             System.out.println("response = " + response.body().string());
             System.out.println("response = " + response.code());
             EscribirLog.ejecutarLog("OK", "Codigo de respuesta: " + response.code());
-            EscribirLog.ejecutarLog("OK", "Response petición: " + response.body());
+            EscribirLog.ejecutarLog("OK", "Response petición: " + response.body().string());
             respuesta=true;
         } catch (IOException e) {
             System.out.println("e = " + e);

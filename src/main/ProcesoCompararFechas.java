@@ -15,8 +15,8 @@ import modelo.Reportes;
  */
 public class ProcesoCompararFechas {
 
-    public static void compararFechasParaEnviar() {
-        Calendar calendario = Calendar.getInstance();
+    public static void compararFechasParaEnviar(Calendar calendario) {
+
         ArrayList<Reportes> respuesta = TraerReportes.idReportes();
         String[] fechasIndividual = null;
         String[] horasIndividual = null;
